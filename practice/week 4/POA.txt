@@ -1,0 +1,11 @@
+In week 4, I plan to read more about dynamic range queries, segment trees because I encountered it many times during practice and will be much helpful during contests. Also I would like to learn more about the following
+1. Djikstra's algorithm
+2. Bellman Ford Algorithm
+3. Binary Trees
+4. Binary Indexed trees
+5. Kruskal's algorithm
+6. Union find structure
+7. Advanced learning about segment trees
+8. cycle detection
+
+etc...
